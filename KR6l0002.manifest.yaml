@@ -1,0 +1,421 @@
+canonical_identifier: bkk:krp/KR6l0002/v1
+canonical_location: https://kanripo.org/bkk/KR6l0002/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 阿毘達磨法蘊足論
+  identifiers:
+    alt_id:
+    - T26n1537
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T26/T26n1537.xml
+    old_id: T26n1537
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 聖
+  label: 聖
+  source_xml_id: wit2
+- short: 宋
+  label: 宋
+  source_xml_id: wit3
+- short: 元
+  label: 元
+  source_xml_id: wit4
+- short: 宮
+  label: 宮
+  source_xml_id: wit5
+- short: 宮-CB
+  label: 宮-CB
+  source_xml_id: wit6
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit7
+- short: 金藏乙-CB
+  label: 金藏乙-CB
+  source_xml_id: wit8
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 磧-CB
+  label: 磧-CB
+  source_xml_id: wit9
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6l0002_000.yaml, hash: 'sha256:d31bed0057c15b5df40a55cc4b70b4f5ccf860862460c0522fed30c9f193fe7a'}
+  - {seq: 1, filename: KR6l0002_001.yaml, hash: 'sha256:b51b12fcc714fccbfabe0fcea12f5ae1015633352237bc6a8298835e53c18bf6'}
+  - {seq: 2, filename: KR6l0002_002.yaml, hash: 'sha256:babc05efa6987eb051a967d6fa38c71a7195577fba402e3daa4d01d821f77537'}
+  - {seq: 3, filename: KR6l0002_003.yaml, hash: 'sha256:31326f1326eacc1db1764e32f4ec59a8ac90cb4ca1978f18504fde7d57fcb1e9'}
+  - {seq: 4, filename: KR6l0002_004.yaml, hash: 'sha256:9ff6ed750b9b133b71be8219a030ddf69c047e1bc0e713225856ac1461ce4d9d'}
+  - {seq: 5, filename: KR6l0002_005.yaml, hash: 'sha256:1bb4c29960c50dffac4e9e0d5f0b68c797da85c11b13b7c903db98cbb734c4dd'}
+  - {seq: 6, filename: KR6l0002_006.yaml, hash: 'sha256:2d2e3c494c53bf6f58a307493c5d06412114685222a4bfb17c6d259f3d15dc8d'}
+  - {seq: 7, filename: KR6l0002_007.yaml, hash: 'sha256:aaa9de20f6518a15999f1f83b43546c5b6fb693b462851de0d6e8d8d4f4c105d'}
+  - {seq: 8, filename: KR6l0002_008.yaml, hash: 'sha256:3e51376ba2e85eed48a7d77e2b4905625545452e96012123aebbd51a225103c2'}
+  - {seq: 9, filename: KR6l0002_009.yaml, hash: 'sha256:9823fe6fd06f615b39c9f75e71721db25647db5b1eef8ec4b021b70bbe6efba3'}
+  - {seq: 10, filename: KR6l0002_010.yaml, hash: 'sha256:cf46a085518b40ce2ecf043fbb20927e2d1c70113adac99b4d76e03e71c589fd'}
+  - {seq: 11, filename: KR6l0002_011.yaml, hash: 'sha256:e40dc621e8e177bbbd38568681b6a00736aaad4de8d6d5e079efed6fc69dea5c'}
+  - {seq: 12, filename: KR6l0002_012.yaml, hash: 'sha256:2ff3a328f269c83386329dbfb31ed42f86682ccb7321050be0861ef31cd9b936'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6l0002_001.markers.yaml, hash: 'sha256:7fb1d618f8f1789c3d10c7bb878c9275a9fd17efc84d8e039655503e837df266'}
+  - {seq: 2, role: markers, filename: assets/KR6l0002_002.markers.yaml, hash: 'sha256:6017d08543e379776cb5e16471da5dcc20f1bb8ed111066dd78b43eb5de1b674'}
+  - {seq: 3, role: markers, filename: assets/KR6l0002_003.markers.yaml, hash: 'sha256:719993d81d6bba47d0a3c11045808e7c5c9ffadc5794564058d50bf7e1e19da3'}
+  - {seq: 4, role: markers, filename: assets/KR6l0002_004.markers.yaml, hash: 'sha256:16cd17ea2ed8aebff6100f1d053b13dbbdd2a788075b50ea35bb0bfbb43b0046'}
+  - {seq: 5, role: markers, filename: assets/KR6l0002_005.markers.yaml, hash: 'sha256:748eb135dd38067ba5e42c869247277b76c6413e965eddef08f616bceb17f47c'}
+  - {seq: 6, role: markers, filename: assets/KR6l0002_006.markers.yaml, hash: 'sha256:ba54123b2d666d238126f5e47813386fa8cccdfef0c5c1f874f07c3778de0557'}
+  - {seq: 7, role: markers, filename: assets/KR6l0002_007.markers.yaml, hash: 'sha256:a670cfda9ff4197e0cbca7530b7218f1341f1f574ffdfda1a1c31b6e5a03aa9d'}
+  - {seq: 8, role: markers, filename: assets/KR6l0002_008.markers.yaml, hash: 'sha256:bcec9a7e70018bb8f893b019c16800266facca514bfeb6c39f0e3b3e20b05b1c'}
+  - {seq: 9, role: markers, filename: assets/KR6l0002_009.markers.yaml, hash: 'sha256:b36dd807f3012f0ce17038f16b239a3e077fc206e7fbf6dd8baaffbc1043febc'}
+  - {seq: 10, role: markers, filename: assets/KR6l0002_010.markers.yaml, hash: 'sha256:ff7a47549c672e19bc5010b7ae6c31945cdae1d52adfa7b893d301547fb4e53f'}
+  - {seq: 11, role: markers, filename: assets/KR6l0002_011.markers.yaml, hash: 'sha256:e67273fca758c33dc39b8c8ef991088e27c0056931342330d8b3a559a7fe1f71'}
+  - {seq: 12, role: markers, filename: assets/KR6l0002_012.markers.yaml, hash: 'sha256:5301c7f620b3e61ea03bd8d15dfb70207548adfa5b5a744e0c02a84bf87ccbca'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6l0002_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6870
+  label: 阿毘達磨法蘊足論卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6l0002_T_001-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 1 學處品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0002_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6854
+  label: 阿毘達磨法蘊足論卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0002_T_002-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 2 預流支品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0002_T_002-mulu-2
+    span:
+    - body
+    - 1989
+    - 1989
+  label: 3 證淨品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0002_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7398
+  label: 阿毘達磨法蘊足論卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0002_T_003-mulu-1
+    span:
+    - body
+    - 1402
+    - 1402
+  label: 4 沙門果品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0002_T_003-mulu-2
+    span:
+    - body
+    - 1977
+    - 1977
+  label: 5 通行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0002_T_003-mulu-3
+    span:
+    - body
+    - 3760
+    - 3760
+  label: 6 聖種品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0002_T_003-mulu-4
+    span:
+    - body
+    - 5771
+    - 5771
+  label: 7 正勝品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6l0002_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 6772
+  label: 阿毘達磨法蘊足論卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6l0002_T_004-mulu-1
+    span:
+    - body
+    - 3881
+    - 3881
+  label: 8 神足品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6l0002_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 6777
+  label: 阿毘達磨法蘊足論卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6l0002_T_005-mulu-1
+    span:
+    - body
+    - 3031
+    - 3031
+  label: 9 念住品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6l0002_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 6855
+  label: 阿毘達磨法蘊足論卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6l0002_T_006-mulu-1
+    span:
+    - body
+    - 1490
+    - 1490
+  label: 10 聖諦品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6l0002_T_006-mulu-2
+    span:
+    - body
+    - 5364
+    - 5364
+  label: 11 靜慮品
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6l0002_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 7087
+  label: 阿毘達磨法蘊足論卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6l0002_T_007-mulu-1
+    span:
+    - body
+    - 2433
+    - 2433
+  label: 12 無量品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6l0002_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 7241
+  label: 阿毘達磨法蘊足論卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6l0002_T_008-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 13 無色品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6l0002_T_008-mulu-2
+    span:
+    - body
+    - 1089
+    - 1089
+  label: 14 修定品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6l0002_T_008-mulu-3
+    span:
+    - body
+    - 4063
+    - 4063
+  label: 15 覺支品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6l0002_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 6763
+  label: 阿毘達磨法蘊足論卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6l0002_T_009-mulu-1
+    span:
+    - body
+    - 1382
+    - 1382
+  label: 16 雜事品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6l0002_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 7325
+  label: 阿毘達磨法蘊足論卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6l0002_T_010-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 17 根品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6l0002_T_010-mulu-2
+    span:
+    - body
+    - 2090
+    - 2090
+  label: 18 處品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6l0002_T_010-mulu-3
+    span:
+    - body
+    - 3536
+    - 3536
+  label: 19 蘊品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6l0002_T_010-mulu-4
+    span:
+    - body
+    - 4455
+    - 4455
+  label: 20 多界品
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6l0002_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 7666
+  label: 阿毘達磨法蘊足論卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6l0002_T_011-mulu-1
+    span:
+    - body
+    - 1947
+    - 1947
+  label: 21 緣起品
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6l0002_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 7156
+  label: 阿毘達磨法蘊足論卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6l0002_T_012-mulu-1
+    span:
+    - body
+    - 6739
+    - 6739
+  label: 後序
+  type: mulu
+  level: 1
+hash: sha256:a86def4fe79e1cb5feb320b391c35a9c081c59ad07d54a81ca046e26b16b3a0d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

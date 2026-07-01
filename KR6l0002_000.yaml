@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6l0002/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿毘達磨法蘊足論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T26/T26n1537.xml
+    old_id: T26n1537
+hash: sha256:d31bed0057c15b5df40a55cc4b70b4f5ccf860862460c0522fed30c9f193fe7a
